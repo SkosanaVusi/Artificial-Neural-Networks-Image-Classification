@@ -2,6 +2,7 @@ These Artificial Neural Networks can classify objects in the CIFAR10 dataset
 
 ![](images/images.png)
 
+
 # Multi-layer Perceptron
 
 A Standard Multi-layer Perceptron which is a type of artificial neural network (ANN) commonly used in machine learning. It is a feedforward neural network that consists of multiple layers of nodes or "neurons".
