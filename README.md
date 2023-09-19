@@ -6,7 +6,8 @@ These Artificial Neural Networks can classify objects in the CIFAR10 dataset
 
 A Standard Multi-layer Perceptron which is a type of artificial neural network (ANN) commonly used in machine learning. It is a feedforward neural network that consists of multiple layers of nodes or "neurons".
 
-![[mlp.png]]
+![](images/mlp.png)
+
 
 # Usage:
 
@@ -32,7 +33,7 @@ CNN stands for Convolutional Neural Network, which is a type of neural network t
 
 The key characteristic of CNNs is the use of convolutional layers, which apply a set of filters to the input data in order to identify features or patterns. These filters are typically small in size, and they are slid across the input data to generate a set of output feature maps. The output of each convolutional layer is then passed through a non-linear activation function, such as ReLU, to introduce non-linearity into the model.
 
-![[cnn.png]]
+![](images/cnn.png)
 
 # Usage:
 
