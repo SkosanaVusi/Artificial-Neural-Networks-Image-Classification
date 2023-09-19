@@ -9,21 +9,21 @@ A Standard Multi-layer Perceptron which is a type of artificial neural network (
 ![](images/mlp.png)
 
 
-# Usage:
+### Usage:
 
 python MLP.py
 
-# Output
+### Output
 
 Train loss = a, Test accuracy = b
 
 - Where a and b is a percentage number
 
-# Requirements
+### Requirements
 
 torch, torchvision, matplotlib
 
-# Example:
+### Example:
 
 python MLP.py
 
@@ -35,21 +35,21 @@ The key characteristic of CNNs is the use of convolutional layers, which apply a
 
 ![](images/cnn.png)
 
-# Usage:
+### Usage:
 
 python CNN.py
 
-# Output
+### Output
 
 Train loss = a, Test accuracy = b
 
 - Where a and b is a percentage number
 
-# Requirements
+### Requirements
 
 torch, torchvision, matplotlib
 
-# Example:
+### Example:
 
 python CNN.py
 
@@ -59,20 +59,20 @@ ResNet (short for Residual Network) is a type of neural network architecture tha
 
 The key innovation of ResNet was the introduction of residual connections, which allow for much deeper neural networks to be trained. In a traditional neural network, each layer is connected only to the previous layer. However, in a ResNet, each layer is connected to the previous layer and the layer two steps back. This means that information can bypass one or more layers and travel directly to the next layer, which allows for the network to learn more complex features and improve accuracy.
 
-# Usage:
+### Usage:
 
 python ResNet.py
 
-# Output
+### Output
 
 Train loss = a, Test accuracy = b
 
 - Where a and b is a percentage number
 
-# Requirements
+### Requirements
 
 torch, torchvision, matplotlib
 
-# Example:
+### Example:
 
 python ResNet.py
