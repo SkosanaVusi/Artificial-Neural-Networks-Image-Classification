@@ -1,6 +1,6 @@
 These Artificial Neural Networks can classify objects in the CIFAR10 dataset
 
-![[images.png]]
+![](images/images.png)
 
 # Multi-layer Perceptron
 
